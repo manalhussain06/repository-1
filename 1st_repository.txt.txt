@@ -1,2 +1,5 @@
 hello!
 my name is manal hussain, i am student at NED university of engineering and technology. this is my second assignment for my first semester's course,FIT ( fundamentals of information and technology), which is of 5 marks, in which we were given an assignment about GitHub!, and this is my first attempt at it!
+
+
+SUBMISSION DATE:(1ST NOVEMBER 2024)
